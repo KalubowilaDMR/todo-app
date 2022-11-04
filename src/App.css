@@ -24,6 +24,23 @@
   color: white;
 }
 
+.main{
+  background: black;
+}
+
+ul{
+  list-style: none;
+  background: #f1f0f0;
+}
+
+/* .fa-trash-xmark{
+  color: red;
+} */
+
+/* ul li{
+  background: #f1f0f0;
+} */
+
 .App-link {
   color: #61dafb;
 }
